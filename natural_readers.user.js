@@ -359,10 +359,10 @@ function addJS_Node(text, s_URL, funcToRun, runOnLoad) {
                         /**
                          * Ended opting for forced timer
                          */
-                        //var timerIn = parseInt(message);
-                        //if (timerIn >= 59000) {
-                        //    timerIn = 59000;
-                        //}
+                        var timerIn = parseInt(message);
+                        if (timerIn >= 59000) {
+                            timerIn = 59000;
+                        }
 
                         timerIn = 55000;
 
