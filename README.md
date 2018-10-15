@@ -45,8 +45,7 @@ This script was made, and tested on **chrome**. You can try install or using on 
 5. Don't forget to leave me a start if you like it. Good luck and good gaming.
 
 ## **Donations**
-Help me feel appreciated with donations.
-
+Help me feel appreciated with donations. *One has to eat.*
 
 **BITCOIN (BTC):** 38DBzLcPDrFm4qmhQVsAPFCEChSmi8HR5E
 **BITCOIN CASH (BTH):** qq4fcxse9qv6f3307xcjyrh0k5vf8ezzhy202sa3k2
