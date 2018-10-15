@@ -2,7 +2,7 @@
 
 Now with Super Voice Reports you can just relax and listen to your game reports.
 
-This *userscript* uses external services with optional premium plans, if you like the server feel free to use premium but keep in mind **I get nothing for those purchases** and I dont control if the services fails in some way.
+This *userscript* uses external services with optional premium plans, if you like the service feel free to use premium but keep in mind **I get nothing for those purchases** and I dont control if the services fails in some way.
 
 For now you can only choose one script:
 
