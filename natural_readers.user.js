@@ -381,7 +381,6 @@ function addJS_Node(text, s_URL, funcToRun, runOnLoad) {
 
         window.addEventListener('message', handleSizingResponse, false);
 
-
     } else if (window.location.host == "www.naturalreaders.com") {
 
         window.top.postMessage('status:iframe.ready', "*");
@@ -393,8 +392,6 @@ function addJS_Node(text, s_URL, funcToRun, runOnLoad) {
 
                 var action = e.data.split(':')[0]
                 var message = e.data.split(':')[1]
-
-
 
                 if (action == 'narrate') {
                     $("#inputDiv").html(message);
