@@ -60,8 +60,13 @@ This script was made, and tested on **chrome** and **firefox**. You can try inst
 Help me feel appreciated with donations. *One has to eat.*
 
 **BITCOIN (BTC):** 38DBzLcPDrFm4qmhQVsAPFCEChSmi8HR5E
+
 **BITCOIN CASH (BTH):** qq4fcxse9qv6f3307xcjyrh0k5vf8ezzhy202sa3k2
+
 **Ether (ETH):** 0xB9b2D92F381a7A67453eEFF732ECf6a205F2502B
+
 **Ethereum Classic (ETC):** 0xEed4676b76353e9Ee14a04285e74dD9DfDC50a5c
+
 **LiteCoin (LTC):** MDsnzTAa4AmFqiGBLA27E31SZhNkMrdu4U
+
 **Electroneum (ETN):** etnkDLfwRcmXDDRprLJP3kG3TX7QJoPa8Gzrr7asXXdKGjadGtKbEcE2FZ1zXZhuSU2JxV1kdRuxgAHT8yurakSs3FW4D7hvgy
