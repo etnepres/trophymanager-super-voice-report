@@ -30,7 +30,7 @@ For now you can only choose one script:
 
 ## How to install
 
-This script was made, and tested on **chrome**. You can try install or using on other browsers but keep in mind its untested.
+This script was made, and tested on **chrome** and **firefox**. You can try install or using on other browsers but keep in mind its untested.
 
 ### Chrome
 
@@ -41,6 +41,18 @@ This script was made, and tested on **chrome**. You can try install or using on 
 3. On page *trophymanager-super-voice-report/natural_readers.user.js* click Buttom [**Raw**](https://raw.githubusercontent.com/etnepres/trophymanager-super-voice-report/master/natural_readers.user.js)
 
 4. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) should now be opened, press install and go on test it out.
+
+5. Don't forget to leave me a start if you like it. Good luck and good gaming.
+
+### Firefox
+
+1. If you don't have already install extension capable of running userscript such has [Tampermonkey](https://addons.mozilla.org/pt-PT/firefox/addon/tampermonkey/), it may require you to restart firefox afterwards.
+
+2. Go to diz link of yoru choice, example: [**natural_readers.user.js**](https://github.com/etnepres/trophymanager-super-voice-report/blob/master/natural_readers.user.js) 
+
+3. On page *trophymanager-super-voice-report/natural_readers.user.js* click Buttom [**Raw**](https://raw.githubusercontent.com/etnepres/trophymanager-super-voice-report/master/natural_readers.user.js)
+
+4. [Tampermonkey](https://addons.mozilla.org/pt-PT/firefox/addon/tampermonkey/) should now be opened, press install and go on test it out.
 
 5. Don't forget to leave me a start if you like it. Good luck and good gaming.
 
