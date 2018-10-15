@@ -8,6 +8,8 @@
 // @author       Joao Manuel Ferreira Fernandes
 // @github       https://github.com/etnepres/trophymanager-super-voice-report
 // @grant        none
+// @downloadURL  https://github.com/etnepres/trophymanager-super-voice-report/raw/master/natural_readers.user.js
+// @updateURL    https://github.com/etnepres/trophymanager-super-voice-report/raw/master/natural_readers.user.js
 // ==/UserScript==
 
 // ADDED
