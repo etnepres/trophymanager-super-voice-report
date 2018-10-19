@@ -82,6 +82,8 @@ function prepare_next_minute() {
                     relatoActual = relatoActual.replace(/\[player=(\d+)\]/gi, getPlayerlastName);
                     relatoActual = relatoActual.replace("[goal]", "");
                     relatoActual = relatoActual.replace("[sub]", "");
+                    relatoActual = relatoActual.replace("[yellow]", "");
+                    relatoActual = relatoActual.replace("[red]", "");
                     relatoActual = replaceAll(relatoActual, "GOAL", "Goal");
                     relatoActual = replaceAll(relatoActual, "GOOOOOOOOOAL", "Goal");
                     relatoActual = replaceAll(relatoActual, "GOOOOOOOOOOLO", "Golo");
