@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Trophymanager Super Voice Reports
 // @namespace    http://trophymanager.com/
-// @version      1.01
+// @version      1.02
 // @description  Now with Super Voice Reports you can just relax and listen to your game reports.
 // @match        https://trophymanager.com/matches/*
 // @match        https://www.naturalreaders.com/online/
