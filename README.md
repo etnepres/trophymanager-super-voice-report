@@ -36,7 +36,7 @@ This script was made, and tested on **chrome** and **firefox**. You can try inst
 
 1. If you don't have already install extension capable of running userscript such has [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en), it may require you to restart chrome afterwards.
 
-2. Go to diz link of yoru choice, example: [**natural_readers.user.js**](https://github.com/etnepres/trophymanager-super-voice-report/blob/master/natural_readers.user.js) 
+2. Go to the link of your choice, example: [**natural_readers.user.js**](https://github.com/etnepres/trophymanager-super-voice-report/blob/master/natural_readers.user.js) 
 
 3. On page *trophymanager-super-voice-report/natural_readers.user.js* click Buttom [**Raw**](https://raw.githubusercontent.com/etnepres/trophymanager-super-voice-report/master/natural_readers.user.js)
 
@@ -48,7 +48,7 @@ This script was made, and tested on **chrome** and **firefox**. You can try inst
 
 1. If you don't have already install extension capable of running userscript such has [Tampermonkey](https://addons.mozilla.org/pt-PT/firefox/addon/tampermonkey/), it may require you to restart firefox afterwards.
 
-2. Go to diz link of yoru choice, example: [**natural_readers.user.js**](https://github.com/etnepres/trophymanager-super-voice-report/blob/master/natural_readers.user.js) 
+2. Go to the link of your choice, example: [**natural_readers.user.js**](https://github.com/etnepres/trophymanager-super-voice-report/blob/master/natural_readers.user.js) 
 
 3. On page *trophymanager-super-voice-report/natural_readers.user.js* click Buttom [**Raw**](https://raw.githubusercontent.com/etnepres/trophymanager-super-voice-report/master/natural_readers.user.js)
 
